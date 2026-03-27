@@ -1,0 +1,38 @@
+{
+  "title": {
+    "message": "Playwright",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Playwright logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Docs": {
+    "message": "Docs",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.API": {
+    "message": "API",
+    "description": "Navbar item with label API"
+  },
+  "item.label.Node.js": {
+    "message": "Node.js",
+    "description": "Navbar item with label Node.js"
+  },
+  "item.label.Community": {
+    "message": "Community",
+    "description": "Navbar item with label Community"
+  },
+  "item.label.Python": {
+    "message": "Python",
+    "description": "Navbar item with label Python"
+  },
+  "item.label.Java": {
+    "message": "Java",
+    "description": "Navbar item with label Java"
+  },
+  "item.label..NET": {
+    "message": ".NET",
+    "description": "Navbar item with label .NET"
+  }
+}

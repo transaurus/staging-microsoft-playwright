@@ -1,0 +1,70 @@
+{
+  "link.title.Learn": {
+    "message": "Learn",
+    "description": "The title of the footer links column with title=Learn in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Getting started": {
+    "message": "Getting started",
+    "description": "The label of footer link with label=Getting started linking to docs/intro"
+  },
+  "link.item.label.Playwright Training": {
+    "message": "Playwright Training",
+    "description": "The label of footer link with label=Playwright Training linking to https://learn.microsoft.com/en-us/training/modules/build-with-playwright/"
+  },
+  "link.item.label.Learn Videos": {
+    "message": "Learn Videos",
+    "description": "The label of footer link with label=Learn Videos linking to /community/learn-videos"
+  },
+  "link.item.label.Feature Videos": {
+    "message": "Feature Videos",
+    "description": "The label of footer link with label=Feature Videos linking to /community/feature-videos"
+  },
+  "link.item.label.Stack Overflow": {
+    "message": "Stack Overflow",
+    "description": "The label of footer link with label=Stack Overflow linking to https://stackoverflow.com/questions/tagged/playwright"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://aka.ms/playwright/discord"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/playwrightweb"
+  },
+  "link.item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "The label of footer link with label=LinkedIn linking to https://www.linkedin.com/company/playwrightweb"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/microsoft/playwright"
+  },
+  "link.item.label.YouTube": {
+    "message": "YouTube",
+    "description": "The label of footer link with label=YouTube linking to https://www.youtube.com/channel/UC46Zj8pDH5tDosqm1gd7WTg"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to https://dev.to/playwright"
+  },
+  "link.item.label.Ambassadors": {
+    "message": "Ambassadors",
+    "description": "The label of footer link with label=Ambassadors linking to /community/ambassadors"
+  },
+  "link.item.label.Microsoft Privacy Statement": {
+    "message": "Microsoft Privacy Statement",
+    "description": "The label of footer link with label=Microsoft Privacy Statement linking to https://go.microsoft.com/fwlink/?LinkId=521839"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 Microsoft",
+    "description": "The footer copyright"
+  }
+}

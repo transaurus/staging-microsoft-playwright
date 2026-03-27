@@ -1,0 +1,50 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.community.category.Videos": {
+    "message": "Videos",
+    "description": "The label for category Videos in sidebar community"
+  },
+  "sidebar.community.link.Conference Videos": {
+    "message": "Conference Videos",
+    "description": "The label for link Conference Videos in sidebar community, linking to /community/conference-videos"
+  },
+  "sidebar.community.link.Release Videos": {
+    "message": "Release Videos",
+    "description": "The label for link Release Videos in sidebar community, linking to /community/release-videos"
+  },
+  "sidebar.community.link.Live Streams": {
+    "message": "Live Streams",
+    "description": "The label for link Live Streams in sidebar community, linking to /community/live-streams"
+  },
+  "sidebar.community.link.Feature Videos": {
+    "message": "Feature Videos",
+    "description": "The label for link Feature Videos in sidebar community, linking to /community/feature-videos"
+  },
+  "sidebar.community.link.Learn Videos": {
+    "message": "Learn Videos",
+    "description": "The label for link Learn Videos in sidebar community, linking to /community/learn-videos"
+  },
+  "sidebar.community.link.MCP & Agent Videos": {
+    "message": "MCP & Agent Videos",
+    "description": "The label for link MCP & Agent Videos in sidebar community, linking to /community/mcp-videos"
+  },
+  "sidebar.community.link.Learn Playwright": {
+    "message": "Learn Playwright",
+    "description": "The label for link Learn Playwright in sidebar community, linking to https://learn.microsoft.com/en-us/training/modules/build-with-playwright/"
+  },
+  "sidebar.community.link.Playwright Samples": {
+    "message": "Playwright Samples",
+    "description": "The label for link Playwright Samples in sidebar community, linking to https://learn.microsoft.com/en-us/samples/browse/?products=playwright"
+  },
+  "sidebar.community.link.Blog": {
+    "message": "Blog",
+    "description": "The label for link Blog in sidebar community, linking to https://dev.to/playwright"
+  },
+  "sidebar.community.link.Join our Community Discord": {
+    "message": "Join our Community Discord",
+    "description": "The label for link Join our Community Discord in sidebar community, linking to https://aka.ms/playwright/discord"
+  }
+}

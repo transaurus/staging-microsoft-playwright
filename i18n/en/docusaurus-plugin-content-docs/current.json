@@ -1,0 +1,50 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for category Getting Started in sidebar docs"
+  },
+  "sidebar.docs.category.Playwright Test": {
+    "message": "Playwright Test",
+    "description": "The label for category Playwright Test in sidebar docs"
+  },
+  "sidebar.docs.category.Guides": {
+    "message": "Guides",
+    "description": "The label for category Guides in sidebar docs"
+  },
+  "sidebar.docs.category.Migration": {
+    "message": "Migration",
+    "description": "The label for category Migration in sidebar docs"
+  },
+  "sidebar.docs.category.Integrations": {
+    "message": "Integrations",
+    "description": "The label for category Integrations in sidebar docs"
+  },
+  "sidebar.api.category.API reference": {
+    "message": "API reference",
+    "description": "The label for category API reference in sidebar api"
+  },
+  "sidebar.api.category.Classes": {
+    "message": "Classes",
+    "description": "The label for category Classes in sidebar api"
+  },
+  "sidebar.api.category.Assertions": {
+    "message": "Assertions",
+    "description": "The label for category Assertions in sidebar api"
+  },
+  "sidebar.api.category.Test Runner": {
+    "message": "Test Runner",
+    "description": "The label for category Test Runner in sidebar api"
+  },
+  "sidebar.api.category.Test Reporter": {
+    "message": "Test Reporter",
+    "description": "The label for category Test Reporter in sidebar api"
+  },
+  "sidebar.api.category.Experimental": {
+    "message": "Experimental",
+    "description": "The label for category Experimental in sidebar api"
+  }
+}
